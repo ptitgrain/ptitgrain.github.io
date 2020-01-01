@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-link: project-threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Yoga meets Soap
+link: project-soap
+subtitle: Vertraag. Smelt weg, als zeep voor de zon.
+image: assets/img/portfolio/zeep-full.jpg
+alt: stapel artisanale stukken zeep
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Yoga meets Soap
+  subtitle: Vertraag. Smelt weg, als zeep voor de zon.
+  thumbnail: assets/img/portfolio/zeep-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Start je workshop met yoga, om dan geheel gefocust en creatief aan je eigen 100% natuurlijke zeep te starten.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Locatie: Bar Bruur, Ruisbroek
+- Deelnemen: Wil je graag deelnemen, schrijf je dan zeker in via het <a href ="/#contact">contact formulier</a>

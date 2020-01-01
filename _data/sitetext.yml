@@ -1,138 +1,122 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to our Yoga Studio!
     text: It's Nice To Meet You
     button: Come in
     buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Lesrooster"
+    text: >-
+      Elke donderdag in Tateljeeke, Koning Boudewijnhof 31, 2880 Wintam (Bornem).
+    end: >-
+      <br/>
+      <table class="table table-striped">
+        <thead>
+            <tr><th scope="col" colspan="2"b>Prijslijst</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>Losse les</td><td>10€</td></tr>
+            <tr><td>10-beurtenkaart</td><td>80€</td></tr>
+            <tr><td>20-beurtenkaart</td><td>140€</td></tr>
+        </tbody>
+      </table>
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Gentle Flow - 19u"
         desc: >- 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.  
-          
-          Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+          Zachte (ashtanga) beginnersles, die je laat kennismaken met dynamische yoga (zonnegroeten, specifieke ujjayi-ademhaling, gebruik van bandha’s, enkele houdingen van de eerste Ashtanga-serie, savasana, …). Een hele mooie kennismaking met dynamische yoga.
+        icon: fa fa-step-forward
+      - title: "Dynamic Flow - 20u"
+        desc: >-
+          Intensieve (ashtanga) les. Ashtanga yoga,  is één van de meest dynamische vormen van alle yoga stijlen.  Deze vorm van yoga is werken, bewegen, zweten en focussen: 99 % praktijk en 1% theorie. Hoe meer je zweet , hoe grondiger je lichaam wordt gereinigd.
+        icon: fa fa-fast-forward       
+      - title: "Relax - 21u"
+        desc: >-
+          Hele zachte, restoratieve (yin) les. Je houdt relatief makkelijke houdingen aan voor langere tijd (3 tot 5 minuten) zodat je leert om alle spieren echt los te laten en spieren en bindweefsel te stretchen. Deze vorm van yoga biedt diepe relaxatie en werkt zuiverend op je organen.
+        icon: fa fa-pause
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "On-tour"
+    text: "Yoga ontmoet... andere activiteiten en workshops waarbij de connectie met jezelf, anderen en de natuur nooit ver weg is."
     section: portfolio    
+    btnText: "Sluiten"
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Onze missie" 
+    text: >-
+      Vertragen om op adem te komen... letterlijk en figuurlijk.  
+      Even stilstaan, even gewoon zijn.  
+      Even rust... om ruimte te krijgen in je hoofd en je lichaam, en van daaruit verder te gaan.
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
+      - title: "Graag traag"
+        desc: >-
+          Een plek voor iedereen die bewust kiest om even op de pauze-knop te drukken. Een soort van tegengewicht voor de alomtegenwoordige hectiek.
+          Waar gezocht, ontdekt en geproefd kan worden. Waar beweging in gang wordt gezet...
+        image: assets/img/about/graag-traag.jpg
+        alt: berglandschap
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
+      - title: "The yoga-way-of-life"
+        desc: >-
+          The yoga-way-of-life is het startpunt van alles wat Studio P'tit Grain onderneemt en organiseert.
+          Omdat yoga net datgene geeft wat je nodig hebt: balans, rust, ruimte, ontspanning, energie, stilte, intuïtie, creativiteit, connectie, ...
+        image: assets/img/about/yoga-way-of-live.jpg
+        alt: yoga houding
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
+      - title: "Yoga... en meer"
+        desc: >-
+          Naast wekelijkse yogalessen, zet Studio P'tit Grain graag 'experimenten' op waar yoga 
+          ge-paired wordt aan andere activiteiten om te ontdekken, te genieten en te connecteren. 
+          Steeds met die pauze-knop in ons achterhoofd. Meer info? Neem een kijkje bij 'on tour'
+        image: assets/img/about/workshop.jpg
+        alt: artistiek bierflesje
     end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+#    section: clients
+#    list:
+#      - title: "Partner"
+#        url: https://www.ptitgrain.be
+#        logo: assets/img/partners/ptitgrain_logo.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Wie"
+    text: "We stellen u graag voor aans ons team van ervaren yoga docenten."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: Anneleen De Boeck
+        role: Ashtanga yoga docente
+        image: assets/img/team/anneleen.jpg
+      - name: Hilde Melis
+        role: Ashtanga yoga docente
+        image: assets/img/team/hilde.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
+    title: "Contacteer ons"
     text: "Lorem ipsum or call 123456789"
     section: contact
+    btnText: "Verzenden"
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"  
+      - url: 'https://www.facebook.com/studioptitgrain/'
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+      - url: https://github.com/ptitgrain/
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/yoga_ptitgrain/
         icon: "fab fa-instagram"
 
 

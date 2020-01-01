@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url    : "www.eko-rebel.be" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://www.ptitgrain.be" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Studio P'tit grain
-email      : your-email@example.com #this is the email contact forms will go to
-description: "site description"
-author     : Steven Janssens
+title      : Yoga Studio P'tit Grain
+email      : "" #this is the email contact forms will go to
+description: ""
+author     : "Steven Janssens"
 #logo:     #optional, defaults to site title
   #path: \assets\img\logos\creative-market.jpg
   #height: 60 #height in px, defaults to 52px
@@ -43,6 +43,8 @@ collections:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
   - node_modules
