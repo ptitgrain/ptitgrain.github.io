@@ -16,4 +16,4 @@ Aromatherapie bundelt de kennis rond de geneeskundige kracht van planten, bloeme
 
 {:.list-inline}
 - Locatie: Bar Bruur, zolder
-- Deelnemen: De les is toegangelijk voor iedereen. Inschrijven via het via het <a href ="/#contact">contact formulier</a>
+- Deelnemen: De les is toegangelijk voor iedereen. Inschrijven via het via het <a href ="https://forms.gle/K3ic9gKRWHvJxXNY6" target="blank">inschrijvingsformulier</a>

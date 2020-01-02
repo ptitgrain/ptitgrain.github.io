@@ -16,4 +16,4 @@ Verjaardagfeestje voor zoon of dochter? Huur onze Wobbels, inclusief compleet ve
 
 {:.list-inline}
 - Locatie: Kinderfeestje? Verjaardagsfeestje? Familiefeest? Bedrijfsfeest? Buurt- of straatfeest?
-- Meer info of reservatie via het <a href ="/#contact">contact formulier</a>
+- Meer info of reservatie via het <a href ="https://forms.gle/K3ic9gKRWHvJxXNY6" target="blank">inschrijvingsformulier</a>

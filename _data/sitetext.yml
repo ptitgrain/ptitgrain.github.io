@@ -9,7 +9,7 @@ services:
     text: >-
       Elke donderdag in Tateljeeke, Koning Boudewijnhof 31, 2880 Wintam (Bornem).<br><br>
       Inschrijven voor de lessen is verplicht.<br>
-      Stuur een WhatsApp bericht naar één van onze docenten of gebruik het <a href="#contact">contact formulier</a>.
+      Stuur een WhatsApp bericht naar één van onze docenten of gebruik het <a href="https://forms.gle/aa1ENPTMzsqgaRnq9" target="blank">inschrijvingsformulier</a>.
     end: >-
       <br/>
       <table class="table table-striped">
@@ -108,7 +108,8 @@ contact:
     btnText: "Verzenden"
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Privacybeleid"
+    condtions: "Algemene voorwaarden"
     social:
 #      - url: https://twitter.com
 #        icon: "fab fa-twitter"  
