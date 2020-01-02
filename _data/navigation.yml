@@ -1,14 +1,14 @@
   
 nav:
+  - title: "Onze missie"
+    section: timeline
+
   - title: "Lesrooster"
     section: services
 
   - title: "On-tour"
     section: portfolio
     
-  - title: "Onze missie"
-    section: timeline
-
   - title: "Wie"
     section: team
 

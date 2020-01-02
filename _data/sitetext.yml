@@ -2,17 +2,19 @@ header:
     title: Welcome to our Yoga Studio!
     text: It's Nice To Meet You
     button: Come in
-    buttonlink: "#services"
+    buttonlink: "#timeline"
 
 services:
     title: "Lesrooster"
     text: >-
-      Elke donderdag in Tateljeeke, Koning Boudewijnhof 31, 2880 Wintam (Bornem).
+      Elke donderdag in Tateljeeke, Koning Boudewijnhof 31, 2880 Wintam (Bornem).<br><br>
+      Inschrijven voor de lessen is verplicht.<br>
+      Stuur een WhatsApp bericht naar één van onze docenten of gebruik het <a href="#contact">contact formulier</a>.
     end: >-
       <br/>
       <table class="table table-striped">
         <thead>
-            <tr><th scope="col" colspan="2"b>Prijslijst</th></tr>
+            <tr><th scope="col" colspan="2"b>Tarieven 2020</th></tr>
         </thead>
         <tbody>
             <tr><td>Losse les</td><td>10€</td></tr>
