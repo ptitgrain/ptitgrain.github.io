@@ -1,37 +1,38 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacybeleid
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Privacybeleid</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.email }} (the “Site”).
+Dit privacybeleid beschrijft hoe jouw persoonlijke informatie wordt verzameld, gebruikt en gedeeld wanneer u gebruik maakt van onze diensten.
 
-**PERSONAL INFORMATION WE COLLECT**
+**GEBRUIKERSINFORMATION DIE WORDT BEWAARD**
 
 {% if site.analytics.google %}
 
-Automatically Collected:
+Automatisch verzameld:
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+Wanneer u onze Site bezoekt, 
+Wanneer u de site bezoekt, ontvangen we automatisch informatie over uw apparaat vanuit uw browser, zoals uw IP-adres. Terwijl u door de site bladert, verzamelen we ook informatie over hoe u omgaat met de site. We verwijzen naar deze automatisch verzamelde informatie als "Apparaatinformatie".
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+We verzamelen apparaatinformatie met behulp van cookies. "Cookies" zijn data bestanden die worden geplaatst op jouw toestel. Meer informatie over cookies kan je vinden op https://nl.wikipedia.org/wiki/Cookie_(internet)
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+We gebruiken hiervoor Google Analytics: <https://www.google.com/intl/nl/policies/privacy/>.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+Je kan voorkomen dat Google Analytics gegevens over jou verzameld, meer info vind je hier: <https://tools.google.com/dlpage/gaoptout>.
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+De gebruikersinformatie, die we over u verzamelen door het inschrijven voor bepaalden diensten, wordt niet gedeeld met derden.
 
 {% endif %}
 
-**CHANGES**
+**WIJZIGINGEN**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Dit privacybeleid kan van tijd tot tijd worden gewijzigd voor persoonlijke, operationele, wettelijke of regelgevende redenen.
 
-**CONTACT US**
+**CONTACTEER ONS**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Wenst u meer informatie over onze gebruiksvoorwaarden of ons privacybeleid , gelieve ons dan te contacteren via het <a href="/#contact">contact formulier</a>.

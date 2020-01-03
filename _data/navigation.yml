@@ -1,19 +1,16 @@
   
 nav:
-  - title: "Services"
-    section: services
-
-  - title: "Portfolio"
-    section: portfolio
-    
-  - title: "About"
+  - title: "Onze missie"
     section: timeline
 
-  - title: "Team"
+  - title: "Lesrooster"
+    section: services
+
+  - title: "On-tour"
+    section: portfolio
+    
+  - title: "Wie"
     section: team
 
   - title: "Contact"
     section: contact
-
-  - title: "External"
-    url: https://raviriley.github.io

@@ -1,3 +1,6 @@
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/feedback.html';}"></iframe>
+
 <!-- Contact -->
   <section class="page-section" id="{{ site.data.sitetext.contact.section | default: contact }}">
     <div class="container">
@@ -9,33 +12,32 @@
       </div>
       <div class="row">
         <div class="col-lg-12">
-          <form id="contactForm" name="sentMessage" novalidate="novalidate" method="POST" action="https://formspree.io/{{ site.email }}">
+          <form id="contactForm" name="sentMessage" novalidate="novalidate" method="POST" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfk8p0SZYS1LXE_HCuBOZvYok137DrVxD_d_rPkG-gfy-gExA/formResponse">
             <div class="row">
               <div class="col-md-6">
                 <div class="form-group">
-                  <input name="name" class="form-control" id="name" type="text" placeholder="Name*" required="required" data-validation-required-message="Please enter your name.">
+                  <input name="entry.506520681" class="form-control" id="name" type="text" placeholder="Naam*" required="required" data-validation-required-message="Gelieve uw naam in te vullen.">
                   <p class="help-block text-danger"></p>
                 </div>
                 <div class="form-group">
-                  <input name="_replyto" class="form-control" id="email" type="email" placeholder="Email*" required="required" data-validation-required-message="Please enter your email address.">
+                  <input name="entry.492963209" class="form-control" id="email" type="email" placeholder="E-mail*" required="required" data-validation-required-message="Gelieve uw e-mail adres in te vullen.">
                   <p class="help-block text-danger"></p>
                 </div>
                 <div class="form-group">
-                  <input name="phone" class="form-control" id="phone" type="tel" placeholder="Phone Number*" required="required" data-validation-required-message="Please enter your phone number.">
+                  <input name="entry.644071773" class="form-control" id="phone" type="tel" placeholder="GSM Number*" required="required" data-validation-required-message="Gelieve uw GSM nummer in te vullen.">
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-group">
-                  <textarea name="message" class="form-control" id="message" placeholder="Message*" required="required" data-validation-required-message="Please enter a message."></textarea>
+                  <textarea name="entry.1643195547" class="form-control" id="message" placeholder="Bericht*" required="required" data-validation-required-message="Gelieve een bericht in te geven."></textarea>
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
-			  <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
               <div class="clearfix"></div>
               <div class="col-lg-12 text-center">
                 <div id="success"></div>
-                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">{{ site.data.sitetext.contact.btnText | default: Send }}</button>
               </div>
             </div>
           </form>

@@ -1,18 +1,19 @@
 ---
-title: Project Name
-link: project3
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: Yoga meets Candlelight & Music
+link: project-candlelight
+subtitle: Vertraag. Luister. En laad op.
+image: assets/img/portfolio/candlelight-full2.jpg
+alt: brandende vuurwerk stokjes
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Yoga meets Candlelight & Music
+  subtitle: Vertraag. Luister. En laad op.
+  thumbnail: assets/img/portfolio/candlelight-thumbnail2.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Winter. Donkerte. Nood aan licht. Kom je zelf verlichten op deze candle-light yoga XL, met live muziek.  
+
+Kom alvast even uit je winterslaap en zoek beetje bij beetje wat licht op, in je lijf en in je hart. Geniet van een XL yoga-sessie, waar XXX centraal staat. Laat je lijf mee bewegen of tot complete rust komen op de tonen van XXXXXXX"
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Locatie: Bar Bruur, zolder
+- Deelnemen: De les is toegangelijk voor iedereen. Inschrijven via het via het <a href ="https://forms.gle/K3ic9gKRWHvJxXNY6" target="blank">inschrijvingsformulier</a>

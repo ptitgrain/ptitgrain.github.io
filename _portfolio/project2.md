@@ -1,18 +1,19 @@
 ---
-title: Project Name
-link: project2
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Creëer je eigen geur. Op maat van je lijf en je hart.
+link: project-fragrance
+subtitle: Vertraag. Gebruik je zintuigen en je intuïtie. Gebruik de kracht van de natuur.
+image: assets/img/portfolio/olie-full.jpg
+alt: flesjes olie op jutte doek
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Creëer je eigen geur. Op maat van je lijf en je hart.
+  subtitle: Vertraag. Gebruik je zintuigen en je intuïtie. Gebruik de kracht van de natuur.
+  thumbnail: assets/img/portfolio/olie-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Gebruik je zintuigen en je intuïtie om je eigen olie te creëeren  
+
+Aromatherapie bundelt de kennis rond de geneeskundige kracht van planten, bloemen en kruiden.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Locatie: Bar Bruur, zolder
+- Deelnemen: De les is toegangelijk voor iedereen. Inschrijven via het via het <a href ="https://forms.gle/K3ic9gKRWHvJxXNY6" target="blank">inschrijvingsformulier</a>
